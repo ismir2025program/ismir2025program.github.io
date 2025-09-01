@@ -28,14 +28,14 @@ proceedings_title: Proceedings of the First MiniCon Conference
 analytics: UA-
 logo:
   image: 'static/images/ismir_tabicon.png'
-  width: 300px
+  width: 200px
   height: auto
 # uncomment the following line to show the site title next to the logo image
 #site_title: 'ISMIR 2025'
 page_title:
   prefix: 'ISMIR 2025'
   separator: ': '
-background_image: 'static/images/Milano_ISMIR_complete_logo.png'
+# background_image: 'static/images/Milano_ISMIR_complete_logo.png'
 organization: ISMIR Organization Committee
 
 # Remove or change to your chat server.
