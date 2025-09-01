@@ -35,7 +35,7 @@ logo:
 page_title:
   prefix: 'ISMIR 2025'
   separator: ': '
-# background_image: 'static/images/Milano_ISMIR_complete_logo.png'
+background_image: 'static/images/Milano_ISMIR_complete_logo.png'
 organization: ISMIR Organization Committee
 
 # Remove or change to your chat server.
