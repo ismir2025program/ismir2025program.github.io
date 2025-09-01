@@ -2,7 +2,6 @@
   "analytics": "UA-",
   "auth0_client_id": "JIdr6wi0z27LyLgwkJF0fpk700aj7MNH",
   "auth0_domain": "miniconf.auth0.com",
-  "background_image": "static/images/Milano_ISMIR_complete_logo.png",
   "browse_paper_buttons": 0,
   "calendar": {
     "colors": {
@@ -32,7 +31,7 @@
   "logo": {
     "height": "auto",
     "image": "static/images/ismir_tabicon.png",
-    "width": "300px"
+    "width": "200px"
   },
   "music_links": true,
   "music_program_channel": "#music-program",

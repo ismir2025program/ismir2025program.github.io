@@ -14,11 +14,11 @@
       "channel_url": "",
       "day": "1",
       "keywords": [
-        "Machine learning/artificial intelligence for music",
-        "Knowledge-driven approaches to MIR",
-        "Alignment, synchronization, and score following",
         "MIR tasks",
         "Music signal processing",
+        "Knowledge-driven approaches to MIR",
+        "Machine learning/artificial intelligence for music",
+        "Alignment, synchronization, and score following",
         "MIR fundamentals and methodology"
       ],
       "long_presentation": "TRUE",
@@ -63,18 +63,18 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        "Generative Tasks",
-        "Creativity",
-        "Music synthesis and transformation",
-        "Tools for artists",
-        "Music composition, performance, and production",
-        "Machine learning/artificial intelligence for music",
-        "Applications",
-        "Knowledge-driven approaches to MIR",
-        "MIR tasks",
-        "Music and audio synthesis",
         "Music signal processing",
-        "MIR fundamentals and methodology"
+        "MIR tasks",
+        "Applications",
+        "Music synthesis and transformation",
+        "Music composition, performance, and production",
+        "Creativity",
+        "Music and audio synthesis",
+        "Generative Tasks",
+        "Knowledge-driven approaches to MIR",
+        "Machine learning/artificial intelligence for music",
+        "MIR fundamentals and methodology",
+        "Tools for artists"
       ],
       "long_presentation": "TRUE",
       "paper_presentation": "In-person, in Daejeon",
@@ -120,13 +120,13 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        "Music transcription and annotation",
-        "Evaluation, datasets, and reproducibility",
-        "Machine learning/artificial intelligence for music",
-        "Knowledge-driven approaches to MIR",
-        "Alignment, synchronization, and score following",
         "MIR tasks",
-        "Annotation protocols"
+        "Evaluation, datasets, and reproducibility",
+        "Knowledge-driven approaches to MIR",
+        "Machine learning/artificial intelligence for music",
+        "Annotation protocols",
+        "Alignment, synchronization, and score following",
+        "Music transcription and annotation"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -174,15 +174,15 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        "Evaluation, datasets, and reproducibility",
-        "Applications",
-        "Machine learning/artificial intelligence for music",
-        "Knowledge-driven approaches to MIR",
-        "Multimodality",
+        "Music videos, multimodal music systems",
         "MIR tasks",
+        "Applications",
+        "Evaluation, datasets, and reproducibility",
+        "Knowledge-driven approaches to MIR",
+        "Machine learning/artificial intelligence for music",
+        "Multimodality",
         "Music generation",
         "Novel datasets and use cases",
-        "Music videos, multimodal music systems",
         "MIR fundamentals and methodology"
       ],
       "long_presentation": "FALSE",
@@ -231,14 +231,14 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        "Melody and motives",
-        "Harmony, chords and tonality",
-        "Music generation",
-        "MIR tasks",
-        "Symbolic music processing",
         "Musical features and properties",
+        "MIR tasks",
+        "Melody and motives",
+        "Music generation",
+        "Symbolic music processing",
+        "MIR fundamentals and methodology",
         "Rhythm, beat, tempo",
-        "MIR fundamentals and methodology"
+        "Harmony, chords and tonality"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -294,8 +294,8 @@
       "keywords": [
         "Sound source separation",
         "MIR tasks",
-        "Multimodality",
-        "MIR fundamentals and methodology"
+        "MIR fundamentals and methodology",
+        "Multimodality"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -345,8 +345,8 @@
       "keywords": [
         "Music generation",
         "MIR tasks",
-        "Evaluation, datasets, and reproducibility",
-        "Novel datasets and use cases"
+        "Novel datasets and use cases",
+        "Evaluation, datasets, and reproducibility"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -394,13 +394,13 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        "Generative Tasks",
-        "Evaluation methodology",
         "Human-centered MIR",
+        "MIR tasks",
+        "Evaluation methodology",
         "Qualitative evaluations",
         "Evaluation, datasets, and reproducibility",
         "User-centered evaluation",
-        "MIR tasks",
+        "Generative Tasks",
         "Music generation",
         "Philosophical and ethical discussions",
         "Reproducibility"
@@ -457,13 +457,13 @@
       "channel_url": "",
       "day": "1",
       "keywords": [
-        "Generative Tasks",
-        "Applications",
-        "Multimodality",
-        "Music generation",
-        "MIR tasks",
-        "Music and audio synthesis",
         "Music videos, multimodal music systems",
+        "MIR tasks",
+        "Applications",
+        "Music generation",
+        "Generative Tasks",
+        "Music and audio synthesis",
+        "Multimodality",
         "MIR fundamentals and methodology"
       ],
       "long_presentation": "FALSE",
@@ -508,13 +508,13 @@
       "channel_url": "",
       "day": "1",
       "keywords": [
-        "Timbre, instrumentation, and singing voice",
-        "Music composition, performance, and production",
-        "Applications",
-        "Harmony, chords and tonality",
         "Musical features and properties",
         "Music signal processing",
-        "MIR fundamentals and methodology"
+        "Applications",
+        "Timbre, instrumentation, and singing voice",
+        "Music composition, performance, and production",
+        "MIR fundamentals and methodology",
+        "Harmony, chords and tonality"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -561,11 +561,11 @@
       "day": "2",
       "keywords": [
         "Representations of music",
-        "Multimodality",
         "MIR tasks",
         "Musical features and properties",
-        "Indexing and querying",
         "Lyrics and other textual data",
+        "Indexing and querying",
+        "Multimodality",
         "MIR fundamentals and methodology"
       ],
       "long_presentation": "TRUE",
@@ -610,12 +610,12 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        "Generative Tasks",
         "Applications",
-        "Multimodality",
-        "Interactions",
         "Music retrieval systems",
-        "MIR fundamentals and methodology"
+        "Multimodality",
+        "Generative Tasks",
+        "MIR fundamentals and methodology",
+        "Interactions"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -655,11 +655,11 @@
       "channel_url": "",
       "day": "1",
       "keywords": [
+        "Musical features and properties",
         "Evaluation methodology",
+        "Evaluation metrics",
         "Evaluation, datasets, and reproducibility",
         "Structure, segmentation, and form",
-        "Musical features and properties",
-        "Evaluation metrics",
         "MIR fundamentals and methodology"
       ],
       "long_presentation": "FALSE",
@@ -702,13 +702,13 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        "Melody and motives",
-        "Generative Tasks",
-        "Harmony, chords and tonality",
-        "Music generation",
+        "Musical features and properties",
         "MIR tasks",
+        "Melody and motives",
+        "Music generation",
         "Music and audio synthesis",
-        "Musical features and properties"
+        "Generative Tasks",
+        "Harmony, chords and tonality"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -758,17 +758,17 @@
       "channel_url": "",
       "day": "1",
       "keywords": [
-        "Human-ai co-creativity",
-        "Creativity",
-        "Music synthesis and transformation",
-        "Tools for artists",
-        "Music composition, performance, and production",
-        "Machine learning/artificial intelligence for music",
-        "Applications",
-        "Knowledge-driven approaches to MIR",
-        "MIR tasks",
         "Music signal processing",
-        "MIR fundamentals and methodology"
+        "MIR tasks",
+        "Applications",
+        "Music synthesis and transformation",
+        "Human-ai co-creativity",
+        "Music composition, performance, and production",
+        "Creativity",
+        "Knowledge-driven approaches to MIR",
+        "Machine learning/artificial intelligence for music",
+        "MIR fundamentals and methodology",
+        "Tools for artists"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -826,9 +826,9 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
+        "Music composition, performance, and production",
         "Music generation",
         "MIR tasks",
-        "Music composition, performance, and production",
         "Applications"
       ],
       "long_presentation": "FALSE",
@@ -872,14 +872,14 @@
       "day": "2",
       "keywords": [
         "Representations of music",
-        "Evaluation, datasets, and reproducibility",
-        "Machine learning/artificial intelligence for music",
-        "Knowledge-driven approaches to MIR",
         "MIR tasks",
-        "Symbolic music processing",
-        "Automatic classification",
         "Musical features and properties",
         "Evaluation metrics",
+        "Automatic classification",
+        "Evaluation, datasets, and reproducibility",
+        "Knowledge-driven approaches to MIR",
+        "Machine learning/artificial intelligence for music",
+        "Symbolic music processing",
         "MIR fundamentals and methodology"
       ],
       "long_presentation": "FALSE",
@@ -924,12 +924,12 @@
       "channel_url": "",
       "day": "1",
       "keywords": [
-        "Evaluation methodology",
-        "Evaluation, datasets, and reproducibility",
-        "Harmony, chords and tonality",
         "MIR tasks",
         "Musical features and properties",
-        "Evaluation metrics"
+        "Evaluation methodology",
+        "Evaluation metrics",
+        "Evaluation, datasets, and reproducibility",
+        "Harmony, chords and tonality"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -981,15 +981,15 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        "Music transcription and annotation",
-        "Evaluation methodology",
-        "Optical music recognition",
-        "Evaluation, datasets, and reproducibility",
-        "Machine learning/artificial intelligence for music",
-        "Knowledge-driven approaches to MIR",
         "MIR tasks",
+        "Evaluation methodology",
+        "Evaluation metrics",
+        "Evaluation, datasets, and reproducibility",
+        "Knowledge-driven approaches to MIR",
+        "Machine learning/artificial intelligence for music",
+        "Optical music recognition",
         "Novel datasets and use cases",
-        "Evaluation metrics"
+        "Music transcription and annotation"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -1037,13 +1037,13 @@
       "channel_url": "",
       "day": "1",
       "keywords": [
-        "Similarity metrics",
-        "Evaluation, datasets, and reproducibility",
         "MIR tasks",
         "Fingerprinting",
+        "Indexing and querying",
+        "Evaluation, datasets, and reproducibility",
         "Pattern matching and detection",
         "Reproducibility",
-        "Indexing and querying"
+        "Similarity metrics"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -1088,9 +1088,9 @@
       "day": "1",
       "keywords": [
         "Human-centered MIR",
+        "Applications",
         "Music interfaces and services",
-        "Human-computer interaction",
-        "Applications"
+        "Human-computer interaction"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -1143,13 +1143,13 @@
       "day": "1",
       "keywords": [
         "Computational creativity",
-        "Human-ai co-creativity",
-        "Creativity",
-        "Human-centered MIR",
-        "Tools for artists",
-        "Evaluation, datasets, and reproducibility",
         "Creative practice involving MIR or generative technology",
-        "Novel datasets and use cases"
+        "Human-ai co-creativity",
+        "Evaluation, datasets, and reproducibility",
+        "Creativity",
+        "Novel datasets and use cases",
+        "Human-centered MIR",
+        "Tools for artists"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -1191,10 +1191,10 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
+        "Structure, segmentation, and form",
         "Musical features and properties",
-        "Evaluation, datasets, and reproducibility",
         "Novel datasets and use cases",
-        "Structure, segmentation, and form"
+        "Evaluation, datasets, and reproducibility"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -1246,16 +1246,16 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        "Music transcription and annotation",
-        "Machine learning/artificial intelligence for music",
-        "Evaluation, datasets, and reproducibility",
-        "Metadata, tags, linked data, and semantic web",
-        "Knowledge-driven approaches to MIR",
-        "Multimodality",
         "MIR tasks",
-        "Novel datasets and use cases",
+        "Evaluation, datasets, and reproducibility",
+        "Knowledge-driven approaches to MIR",
+        "Machine learning/artificial intelligence for music",
         "Annotation protocols",
-        "MIR fundamentals and methodology"
+        "Multimodality",
+        "Novel datasets and use cases",
+        "MIR fundamentals and methodology",
+        "Music transcription and annotation",
+        "Metadata, tags, linked data, and semantic web"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -1299,17 +1299,17 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
+        "MIR tasks",
+        "Musical features and properties",
+        "Evaluation metrics",
         "Human-ai co-creativity",
         "Creativity",
-        "Generative Tasks",
-        "Tools for artists",
-        "Machine learning/artificial intelligence for music",
         "Knowledge-driven approaches to MIR",
         "Music generation",
-        "MIR tasks",
+        "Generative Tasks",
+        "Machine learning/artificial intelligence for music",
         "Structure, segmentation, and form",
-        "Musical features and properties",
-        "Evaluation metrics"
+        "Tools for artists"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -1353,17 +1353,17 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        "Music transcription and annotation",
-        "Music training and education",
-        "Evaluation, datasets, and reproducibility",
-        "Applications",
-        "Multimodality",
-        "Harmony, chords and tonality",
         "MIR tasks",
-        "Novel datasets and use cases",
-        "Automatic classification",
         "Musical features and properties",
-        "MIR fundamentals and methodology"
+        "Applications",
+        "Automatic classification",
+        "Evaluation, datasets, and reproducibility",
+        "Music training and education",
+        "Multimodality",
+        "Novel datasets and use cases",
+        "MIR fundamentals and methodology",
+        "Music transcription and annotation",
+        "Harmony, chords and tonality"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -1409,15 +1409,15 @@
       "channel_url": "",
       "day": "1",
       "keywords": [
-        "Generative Tasks",
+        "MIR tasks",
+        "Musical features and properties",
         "Evaluation methodology",
         "Evaluation, datasets, and reproducibility",
         "Alignment, synchronization, and score following",
+        "Generative Tasks",
         "Real-time considerations",
-        "MIR tasks",
         "Expression and performative aspects of music",
-        "Reproducibility",
-        "Musical features and properties"
+        "Reproducibility"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -1463,11 +1463,11 @@
       "channel_url": "",
       "day": "1",
       "keywords": [
-        "Musical affect, emotion and mood",
+        "Musical features and properties",
+        "Evaluation metrics",
         "Evaluation, datasets, and reproducibility",
         "Annotation protocols",
-        "Musical features and properties",
-        "Evaluation metrics"
+        "Musical affect, emotion and mood"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -1515,12 +1515,12 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        "Music recommendation and playlist generation",
-        "Human-centered MIR",
-        "Applications",
         "Music videos, multimodal music systems",
         "Music interfaces and services",
-        "Personalization"
+        "Applications",
+        "Human-centered MIR",
+        "Personalization",
+        "Music recommendation and playlist generation"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -1564,17 +1564,17 @@
       "channel_url": "",
       "day": "1",
       "keywords": [
-        "Human-centered MIR",
-        "Music composition, performance, and production",
-        "Evaluation, datasets, and reproducibility",
-        "Applications",
-        "Cognitive MIR",
-        "Alignment, synchronization, and score following",
-        "Knowledge-driven approaches to MIR",
+        "Music videos, multimodal music systems",
         "MIR tasks",
+        "Applications",
+        "Evaluation, datasets, and reproducibility",
+        "Music composition, performance, and production",
+        "Knowledge-driven approaches to MIR",
+        "Alignment, synchronization, and score following",
+        "Cognitive MIR",
         "Novel datasets and use cases",
-        "Human-computer interaction",
-        "Music videos, multimodal music systems"
+        "Human-centered MIR",
+        "Human-computer interaction"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -1623,13 +1623,13 @@
       "day": "2",
       "keywords": [
         "Representations of music",
-        "Machine learning/artificial intelligence for music",
-        "Knowledge-driven approaches to MIR",
-        "Music generation",
         "MIR tasks",
-        "Symbolic music processing",
-        "Automatic classification",
         "Musical features and properties",
+        "Automatic classification",
+        "Knowledge-driven approaches to MIR",
+        "Machine learning/artificial intelligence for music",
+        "Music generation",
+        "Symbolic music processing",
         "MIR fundamentals and methodology"
       ],
       "long_presentation": "FALSE",
@@ -1674,16 +1674,16 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        "Computational musicology",
-        "Structure, segmentation, and form",
-        "Knowledge-driven approaches to MIR",
-        "Alignment, synchronization, and score following",
-        "MIR tasks",
-        "Expression and performative aspects of music",
-        "Computational music theory and musicology",
         "Musical features and properties",
+        "MIR tasks",
+        "Knowledge-driven approaches to MIR",
+        "Structure, segmentation, and form",
+        "Alignment, synchronization, and score following",
+        "Computational musicology",
         "Rhythm, beat, tempo",
-        "Digital musicology"
+        "Expression and performative aspects of music",
+        "Digital musicology",
+        "Computational music theory and musicology"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -1733,18 +1733,18 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        "Optical music recognition",
-        "Evaluation, datasets, and reproducibility",
-        "Applications",
-        "Machine learning/artificial intelligence for music",
-        "Knowledge-driven approaches to MIR",
-        "Harmony, chords and tonality",
         "MIR tasks",
-        "Novel datasets and use cases",
-        "Symbolic music processing",
         "Musical features and properties",
+        "Applications",
         "Music retrieval systems",
-        "MIR fundamentals and methodology"
+        "Evaluation, datasets, and reproducibility",
+        "Knowledge-driven approaches to MIR",
+        "Machine learning/artificial intelligence for music",
+        "Optical music recognition",
+        "Symbolic music processing",
+        "Novel datasets and use cases",
+        "MIR fundamentals and methodology",
+        "Harmony, chords and tonality"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -1794,11 +1794,11 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        "Human-centered MIR",
-        "Music training and education",
-        "Applications",
-        "User-centered evaluation",
         "Musical features and properties",
+        "Applications",
+        "Music training and education",
+        "User-centered evaluation",
+        "Human-centered MIR",
         "Personalization"
       ],
       "long_presentation": "FALSE",
@@ -1843,13 +1843,13 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        "Music transcription and annotation",
+        "MIR tasks",
         "Evaluation methodology",
+        "Evaluation metrics",
         "Evaluation, datasets, and reproducibility",
         "Machine learning/artificial intelligence for music",
         "Knowledge-driven approaches to MIR",
-        "MIR tasks",
-        "Evaluation metrics"
+        "Music transcription and annotation"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -1897,14 +1897,14 @@
       "channel_url": "",
       "day": "1",
       "keywords": [
-        "Computational musicology",
-        "Harmony, chords and tonality",
-        "Musical features and properties",
         "Systematic musicology",
+        "Music signal processing",
+        "Musical features and properties",
+        "Computational musicology",
+        "MIR fundamentals and methodology",
         "Rhythm, beat, tempo",
         "Digital musicology",
-        "Music signal processing",
-        "MIR fundamentals and methodology"
+        "Harmony, chords and tonality"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -1958,15 +1958,15 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        "Similarity metrics",
-        "Evaluation, datasets, and reproducibility",
+        "Musical features and properties",
         "MIR tasks",
+        "Fingerprinting",
+        "Evaluation, datasets, and reproducibility",
+        "Symbolic music processing",
+        "MIR fundamentals and methodology",
         "Novel datasets and use cases",
         "Expression and performative aspects of music",
-        "Symbolic music processing",
-        "Fingerprinting",
-        "Musical features and properties",
-        "MIR fundamentals and methodology"
+        "Similarity metrics"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -2016,14 +2016,14 @@
       "channel_url": "",
       "day": "1",
       "keywords": [
-        "Music recommendation and playlist generation",
-        "Human-centered MIR",
-        "Cognitive MIR",
+        "Music interfaces and services",
         "Applications",
         "User behavior analysis and mining, user modeling",
-        "Music interfaces and services",
+        "Music retrieval systems",
         "Knowledge-driven approaches to MIR",
-        "Music retrieval systems"
+        "Cognitive MIR",
+        "Human-centered MIR",
+        "Music recommendation and playlist generation"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -2069,10 +2069,10 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
+        "Knowledge-driven approaches to MIR",
         "Music retrieval systems",
         "Representations of music",
-        "Applications",
-        "Knowledge-driven approaches to MIR"
+        "Applications"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -2118,15 +2118,15 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        "Music transcription and annotation",
-        "Evaluation, datasets, and reproducibility",
-        "Machine learning/artificial intelligence for music",
-        "Knowledge-driven approaches to MIR",
         "MIR tasks",
-        "Novel datasets and use cases",
-        "Automatic classification",
         "Musical features and properties",
-        "Rhythm, beat, tempo"
+        "Automatic classification",
+        "Evaluation, datasets, and reproducibility",
+        "Knowledge-driven approaches to MIR",
+        "Machine learning/artificial intelligence for music",
+        "Novel datasets and use cases",
+        "Rhythm, beat, tempo",
+        "Music transcription and annotation"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -2170,14 +2170,14 @@
       "channel_url": "",
       "day": "1",
       "keywords": [
-        "Generative Tasks",
-        "Machine learning/artificial intelligence for music",
-        "Knowledge-driven approaches to MIR",
-        "Music generation",
         "MIR tasks",
-        "Music and audio synthesis",
-        "Symbolic music processing",
         "Musical features and properties",
+        "Knowledge-driven approaches to MIR",
+        "Machine learning/artificial intelligence for music",
+        "Music and audio synthesis",
+        "Generative Tasks",
+        "Symbolic music processing",
+        "Music generation",
         "MIR fundamentals and methodology"
       ],
       "long_presentation": "FALSE",
@@ -2222,12 +2222,12 @@
       "channel_url": "",
       "day": "1",
       "keywords": [
-        "Machine learning/artificial intelligence for music",
-        "Knowledge-driven approaches to MIR",
-        "Musical features and properties",
-        "Rhythm, beat, tempo",
         "Music signal processing",
-        "MIR fundamentals and methodology"
+        "Musical features and properties",
+        "Knowledge-driven approaches to MIR",
+        "Machine learning/artificial intelligence for music",
+        "MIR fundamentals and methodology",
+        "Rhythm, beat, tempo"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -2317,16 +2317,16 @@
       "channel_url": "",
       "day": "1",
       "keywords": [
-        "Computational ethnomusicology",
-        "Computational musicology",
-        "Evaluation, datasets, and reproducibility",
-        "Applications",
         "Music heritage and sustainability",
+        "Applications",
+        "Evaluation, datasets, and reproducibility",
         "Knowledge-driven approaches to MIR",
+        "Computational musicology",
         "Symbolic music processing",
-        "Computational music theory and musicology",
+        "MIR fundamentals and methodology",
         "Digital musicology",
-        "MIR fundamentals and methodology"
+        "Computational music theory and musicology",
+        "Computational ethnomusicology"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -2368,14 +2368,14 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        "Computational musicology",
-        "Human-centered MIR",
-        "MIR tasks",
-        "Human-computer interaction",
-        "Structure, segmentation, and form",
-        "Musical features and properties",
         "Systematic musicology",
-        "MIR fundamentals and methodology"
+        "MIR tasks",
+        "Musical features and properties",
+        "Structure, segmentation, and form",
+        "Computational musicology",
+        "MIR fundamentals and methodology",
+        "Human-centered MIR",
+        "Human-computer interaction"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -2420,12 +2420,12 @@
       "day": "2",
       "keywords": [
         "Representations of music",
-        "Generative Tasks",
-        "Music generation",
         "MIR tasks",
-        "Music and audio synthesis",
+        "Musical features and properties",
         "Transformations",
-        "Musical features and properties"
+        "Music generation",
+        "Music and audio synthesis",
+        "Generative Tasks"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -2469,9 +2469,9 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
+        "",
         "Sound source separation",
-        "MIR tasks",
-        ""
+        "MIR tasks"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -2522,10 +2522,10 @@
       "day": "3",
       "keywords": [
         "Representations of music",
-        "Music composition, performance, and production",
+        "Musical features and properties",
         "Applications",
-        "Knowledge-driven approaches to MIR",
-        "Musical features and properties"
+        "Music composition, performance, and production",
+        "Knowledge-driven approaches to MIR"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -2571,16 +2571,16 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        "Computational creativity",
         "Representations of music",
+        "MIR tasks",
+        "Computational creativity",
+        "Musical features and properties",
         "Creativity",
         "Knowledge-driven approaches to MIR",
         "Music generation",
-        "MIR tasks",
         "Symbolic music processing",
-        "Computational music theory and musicology",
-        "Musical features and properties",
-        "MIR fundamentals and methodology"
+        "MIR fundamentals and methodology",
+        "Computational music theory and musicology"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -2630,12 +2630,12 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        "Sound source separation",
+        "Musical features and properties",
+        "MIR tasks",
         "Timbre, instrumentation, and singing voice",
         "Evaluation, datasets, and reproducibility",
-        "MIR tasks",
-        "Novel datasets and use cases",
-        "Musical features and properties"
+        "Sound source separation",
+        "Novel datasets and use cases"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -2679,12 +2679,12 @@
       "channel_url": "",
       "day": "1",
       "keywords": [
-        "Computational ethnomusicology",
-        "Music composition, performance, and production",
+        "Musical features and properties",
         "Applications",
         "Knowledge-driven approaches to MIR",
+        "Music composition, performance, and production",
         "Expression and performative aspects of music",
-        "Musical features and properties"
+        "Computational ethnomusicology"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -2726,11 +2726,11 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
+        "Musical features and properties",
+        "Evaluation metrics",
         "Evaluation, datasets, and reproducibility",
         "Structure, segmentation, and form",
-        "Musical features and properties",
-        "Reproducibility",
-        "Evaluation metrics"
+        "Reproducibility"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -2778,13 +2778,13 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        "Human-centered MIR",
-        "Optical music recognition",
-        "Machine learning/artificial intelligence for music",
-        "Knowledge-driven approaches to MIR",
         "MIR tasks",
-        "Human-computer interaction",
-        "Pattern matching and detection"
+        "Knowledge-driven approaches to MIR",
+        "Machine learning/artificial intelligence for music",
+        "Optical music recognition",
+        "Pattern matching and detection",
+        "Human-centered MIR",
+        "Human-computer interaction"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -2837,12 +2837,12 @@
       "day": "2",
       "keywords": [
         "Representations of music",
-        "Machine learning/artificial intelligence for music",
+        "Music signal processing",
         "Applications",
-        "Knowledge-driven approaches to MIR",
         "Digital libraries and archives",
         "Music retrieval systems",
-        "Music signal processing",
+        "Machine learning/artificial intelligence for music",
+        "Knowledge-driven approaches to MIR",
         "MIR fundamentals and methodology"
       ],
       "long_presentation": "FALSE",
@@ -2892,15 +2892,15 @@
       "day": "1",
       "keywords": [
         "Representations of music",
-        "Similarity metrics",
-        "Evaluation, datasets, and reproducibility",
-        "Applications",
-        "Knowledge-driven approaches to MIR",
         "MIR tasks",
-        "Symbolic music processing",
-        "Philosophical and ethical discussions",
+        "Applications",
         "Music retrieval systems",
-        "MIR fundamentals and methodology"
+        "Evaluation, datasets, and reproducibility",
+        "Knowledge-driven approaches to MIR",
+        "Symbolic music processing",
+        "MIR fundamentals and methodology",
+        "Philosophical and ethical discussions",
+        "Similarity metrics"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -2944,9 +2944,9 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
+        "Transformations",
         "Sound source separation",
         "MIR tasks",
-        "Transformations",
         "Generative Tasks"
       ],
       "long_presentation": "FALSE",
@@ -2991,15 +2991,15 @@
       "channel_url": "",
       "day": "1",
       "keywords": [
-        "Generative Tasks",
-        "Evaluation methodology",
-        "Music synthesis and transformation",
-        "Evaluation, datasets, and reproducibility",
-        "Machine learning/artificial intelligence for music",
-        "Knowledge-driven approaches to MIR",
         "MIR tasks",
+        "Music synthesis and transformation",
+        "Evaluation methodology",
+        "Evaluation metrics",
+        "Evaluation, datasets, and reproducibility",
+        "Knowledge-driven approaches to MIR",
+        "Machine learning/artificial intelligence for music",
         "Music and audio synthesis",
-        "Evaluation metrics"
+        "Generative Tasks"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -3049,14 +3049,14 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        "Generative Tasks",
-        "Music synthesis and transformation",
-        "Machine learning/artificial intelligence for music",
-        "Knowledge-driven approaches to MIR",
         "MIR tasks",
+        "Musical features and properties",
+        "Music synthesis and transformation",
+        "Knowledge-driven approaches to MIR",
+        "Machine learning/artificial intelligence for music",
         "Music and audio synthesis",
-        "Expression and performative aspects of music",
-        "Musical features and properties"
+        "Generative Tasks",
+        "Expression and performative aspects of music"
       ],
       "long_presentation": "TRUE",
       "paper_presentation": "In-person, in Daejeon",
@@ -3100,13 +3100,13 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        "Computational ethnomusicology",
-        "Machine learning/artificial intelligence for music",
-        "Metadata, tags, linked data, and semantic web",
-        "Knowledge-driven approaches to MIR",
         "MIR tasks",
         "Automatic classification",
-        "MIR fundamentals and methodology"
+        "Knowledge-driven approaches to MIR",
+        "Machine learning/artificial intelligence for music",
+        "MIR fundamentals and methodology",
+        "Metadata, tags, linked data, and semantic web",
+        "Computational ethnomusicology"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -3147,18 +3147,18 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        "Human-centered MIR",
-        "Evaluation, datasets, and reproducibility",
-        "Machine learning/artificial intelligence for music",
-        "Knowledge-driven approaches to MIR",
-        "MIR tasks",
-        "Human-computer interaction",
-        "Automatic classification",
         "Reproducibility",
-        "Musical features and properties",
-        "Rhythm, beat, tempo",
         "Music signal processing",
-        "MIR fundamentals and methodology"
+        "MIR tasks",
+        "Musical features and properties",
+        "Automatic classification",
+        "Evaluation, datasets, and reproducibility",
+        "Knowledge-driven approaches to MIR",
+        "Machine learning/artificial intelligence for music",
+        "MIR fundamentals and methodology",
+        "Rhythm, beat, tempo",
+        "Human-centered MIR",
+        "Human-computer interaction"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -3206,9 +3206,9 @@
       "channel_url": "",
       "day": "1",
       "keywords": [
+        "Knowledge-driven approaches to MIR",
         "",
-        "Computational ethnomusicology",
-        "Knowledge-driven approaches to MIR"
+        "Computational ethnomusicology"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -3252,15 +3252,15 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        "Musical style and genre",
-        "Computational ethnomusicology",
-        "Machine learning/artificial intelligence for music",
-        "Metadata, tags, linked data, and semantic web",
-        "Knowledge-driven approaches to MIR",
         "MIR tasks",
-        "Automatic classification",
         "Musical features and properties",
-        "MIR fundamentals and methodology"
+        "Automatic classification",
+        "Knowledge-driven approaches to MIR",
+        "Machine learning/artificial intelligence for music",
+        "MIR fundamentals and methodology",
+        "Musical style and genre",
+        "Metadata, tags, linked data, and semantic web",
+        "Computational ethnomusicology"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -3309,8 +3309,8 @@
       "day": "1",
       "keywords": [
         "Musical features and properties",
-        "Music signal processing",
-        "MIR fundamentals and methodology"
+        "MIR fundamentals and methodology",
+        "Music signal processing"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -3358,8 +3358,8 @@
       "channel_url": "",
       "day": "1",
       "keywords": [
-        "Applications",
         "MIR tasks",
+        "Applications",
         "Automatic classification",
         "Lyrics and other textual data",
         "MIR fundamentals and methodology"
@@ -3408,12 +3408,12 @@
       "keywords": [
         "Representations of music",
         "Evaluation methodology",
+        "Evaluation metrics",
         "Evaluation, datasets, and reproducibility",
         "Machine learning/artificial intelligence for music",
         "Knowledge-driven approaches to MIR",
         "Philosophical and ethical discussions",
-        "Ethical issues related to designing and implementing MIR tools and technologies",
-        "Evaluation metrics"
+        "Ethical issues related to designing and implementing MIR tools and technologies"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -3461,14 +3461,14 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
+        "MIR tasks",
         "Evaluation methodology",
-        "Sound source separation",
-        "Human-centered MIR",
         "Evaluation, datasets, and reproducibility",
-        "Machine learning/artificial intelligence for music",
         "Knowledge-driven approaches to MIR",
+        "Machine learning/artificial intelligence for music",
+        "Sound source separation",
         "User-centered evaluation",
-        "MIR tasks"
+        "Human-centered MIR"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -3510,15 +3510,15 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        "Computational musicology",
-        "Cognitive MIR",
-        "Machine learning/artificial intelligence for music",
-        "Knowledge-driven approaches to MIR",
-        "Symbolic music processing",
-        "Structure, segmentation, and form",
         "Musical features and properties",
-        "Digital musicology",
-        "MIR fundamentals and methodology"
+        "Knowledge-driven approaches to MIR",
+        "Machine learning/artificial intelligence for music",
+        "Structure, segmentation, and form",
+        "Cognitive MIR",
+        "Computational musicology",
+        "Symbolic music processing",
+        "MIR fundamentals and methodology",
+        "Digital musicology"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -3564,13 +3564,13 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
-        "Music generation",
         "MIR tasks",
-        "Philosophical and ethical discussions",
-        "Automatic classification",
-        "Ethical issues related to designing and implementing MIR tools and technologies",
         "Music signal processing",
-        "MIR fundamentals and methodology"
+        "Automatic classification",
+        "Music generation",
+        "MIR fundamentals and methodology",
+        "Philosophical and ethical discussions",
+        "Ethical issues related to designing and implementing MIR tools and technologies"
       ],
       "long_presentation": "TRUE",
       "paper_presentation": "Virtually",
@@ -3616,12 +3616,12 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        "Music transcription and annotation",
-        "MIR tasks",
-        "Expression and performative aspects of music",
         "Musical features and properties",
+        "MIR tasks",
         "Music signal processing",
-        "MIR fundamentals and methodology"
+        "MIR fundamentals and methodology",
+        "Expression and performative aspects of music",
+        "Music transcription and annotation"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -3667,14 +3667,14 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        "Music recommendation and playlist generation",
-        "Human-centered MIR",
-        "Music training and education",
-        "Machine learning/artificial intelligence for music",
         "Applications",
         "User behavior analysis and mining, user modeling",
+        "Music training and education",
         "Knowledge-driven approaches to MIR",
-        "Personalization"
+        "Machine learning/artificial intelligence for music",
+        "Human-centered MIR",
+        "Personalization",
+        "Music recommendation and playlist generation"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -3718,10 +3718,10 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        "Machine learning/artificial intelligence for music",
-        "Knowledge-driven approaches to MIR",
         "Musical features and properties",
         "Music signal processing",
+        "Knowledge-driven approaches to MIR",
+        "Machine learning/artificial intelligence for music",
         "MIR fundamentals and methodology"
       ],
       "long_presentation": "FALSE",
@@ -3772,17 +3772,17 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        "Music transcription and annotation",
         "Representations of music",
-        "Generative Tasks",
-        "Evaluation, datasets, and reproducibility",
         "MIR tasks",
-        "Music and audio synthesis",
-        "Novel datasets and use cases",
-        "Symbolic music processing",
-        "Expression and performative aspects of music",
         "Musical features and properties",
-        "MIR fundamentals and methodology"
+        "Evaluation, datasets, and reproducibility",
+        "Music and audio synthesis",
+        "Generative Tasks",
+        "Symbolic music processing",
+        "MIR fundamentals and methodology",
+        "Novel datasets and use cases",
+        "Expression and performative aspects of music",
+        "Music transcription and annotation"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -3831,10 +3831,10 @@
       "day": "2",
       "keywords": [
         "Representations of music",
+        "Musical features and properties",
         "Evaluation methodology",
         "Evaluation, datasets, and reproducibility",
         "Multimodality",
-        "Musical features and properties",
         "MIR fundamentals and methodology"
       ],
       "long_presentation": "FALSE",
@@ -3880,12 +3880,12 @@
       "day": "4",
       "keywords": [
         "Representations of music",
-        "Machine learning/artificial intelligence for music",
-        "Knowledge-driven approaches to MIR",
-        "MIR tasks",
-        "Automatic classification",
-        "Musical features and properties",
         "Music signal processing",
+        "MIR tasks",
+        "Musical features and properties",
+        "Automatic classification",
+        "Knowledge-driven approaches to MIR",
+        "Machine learning/artificial intelligence for music",
         "MIR fundamentals and methodology"
       ],
       "long_presentation": "FALSE",
@@ -3934,8 +3934,8 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        "Music and audio synthesis",
         "Evaluation metrics",
+        "Music and audio synthesis",
         "Generative Tasks"
       ],
       "long_presentation": "FALSE",
@@ -3983,12 +3983,12 @@
       "day": "4",
       "keywords": [
         "Representations of music",
-        "Machine learning/artificial intelligence for music",
-        "Knowledge-driven approaches to MIR",
-        "MIR tasks",
-        "Pattern matching and detection",
-        "Automatic classification",
         "Music signal processing",
+        "MIR tasks",
+        "Automatic classification",
+        "Knowledge-driven approaches to MIR",
+        "Machine learning/artificial intelligence for music",
+        "Pattern matching and detection",
         "MIR fundamentals and methodology"
       ],
       "long_presentation": "FALSE",
@@ -4032,15 +4032,15 @@
       "day": "4",
       "keywords": [
         "Representations of music",
-        "Evaluation, datasets, and reproducibility",
-        "Machine learning/artificial intelligence for music",
-        "Knowledge-driven approaches to MIR",
-        "MIR tasks",
-        "Novel datasets and use cases",
-        "Symbolic music processing",
-        "Automatic classification",
-        "Structure, segmentation, and form",
         "Musical features and properties",
+        "MIR tasks",
+        "Automatic classification",
+        "Evaluation, datasets, and reproducibility",
+        "Structure, segmentation, and form",
+        "Knowledge-driven approaches to MIR",
+        "Machine learning/artificial intelligence for music",
+        "Symbolic music processing",
+        "Novel datasets and use cases",
         "MIR fundamentals and methodology"
       ],
       "long_presentation": "FALSE",
@@ -4083,14 +4083,14 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        "Music transcription and annotation",
         "Representations of music",
-        "Machine learning/artificial intelligence for music",
-        "Knowledge-driven approaches to MIR",
         "MIR tasks",
-        "Musical features and properties",
         "Music signal processing",
-        "MIR fundamentals and methodology"
+        "Musical features and properties",
+        "Knowledge-driven approaches to MIR",
+        "Machine learning/artificial intelligence for music",
+        "MIR fundamentals and methodology",
+        "Music transcription and annotation"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -4130,12 +4130,12 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        "Computational musicology",
-        "Structure, segmentation, and form",
-        "Knowledge-driven approaches to MIR",
-        "Computational music theory and musicology",
         "Musical features and properties",
-        "Mathematical music theory"
+        "Knowledge-driven approaches to MIR",
+        "Structure, segmentation, and form",
+        "Mathematical music theory",
+        "Computational musicology",
+        "Computational music theory and musicology"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -4181,15 +4181,15 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
-        "Music training and education",
-        "Evaluation, datasets, and reproducibility",
-        "Applications",
-        "Machine learning/artificial intelligence for music",
-        "Knowledge-driven approaches to MIR",
-        "Harmony, chords and tonality",
-        "Novel datasets and use cases",
         "Musical features and properties",
-        "Evaluation metrics"
+        "Applications",
+        "Evaluation metrics",
+        "Evaluation, datasets, and reproducibility",
+        "Music training and education",
+        "Knowledge-driven approaches to MIR",
+        "Machine learning/artificial intelligence for music",
+        "Novel datasets and use cases",
+        "Harmony, chords and tonality"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -4233,13 +4233,13 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        "Music transcription and annotation",
-        "Machine learning/artificial intelligence for music",
-        "Knowledge-driven approaches to MIR",
-        "Harmony, chords and tonality",
+        "Musical features and properties",
         "MIR tasks",
+        "Knowledge-driven approaches to MIR",
+        "Machine learning/artificial intelligence for music",
+        "Music transcription and annotation",
         "Computational music theory and musicology",
-        "Musical features and properties"
+        "Harmony, chords and tonality"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -4340,12 +4340,12 @@
       "day": "4",
       "keywords": [
         "Representations of music",
-        "Generative Tasks",
-        "Machine learning/artificial intelligence for music",
-        "Knowledge-driven approaches to MIR",
-        "Music generation",
         "MIR tasks",
-        "Music and audio synthesis"
+        "Knowledge-driven approaches to MIR",
+        "Machine learning/artificial intelligence for music",
+        "Music and audio synthesis",
+        "Generative Tasks",
+        "Music generation"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -4388,15 +4388,15 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        "Computational musicology",
-        "Music composition, performance, and production",
-        "Applications",
-        "Knowledge-driven approaches to MIR",
-        "Harmony, chords and tonality",
-        "Symbolic music processing",
-        "Computational music theory and musicology",
         "Musical features and properties",
-        "MIR fundamentals and methodology"
+        "Applications",
+        "Music composition, performance, and production",
+        "Knowledge-driven approaches to MIR",
+        "Computational musicology",
+        "Symbolic music processing",
+        "MIR fundamentals and methodology",
+        "Computational music theory and musicology",
+        "Harmony, chords and tonality"
       ],
       "long_presentation": "TRUE",
       "paper_presentation": "In-person, in Daejeon",
@@ -4440,17 +4440,17 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        "Creativity",
-        "Generative Tasks",
-        "Evaluation, datasets, and reproducibility",
-        "Multimodality",
-        "Creative practice involving MIR or generative technology",
-        "Music generation",
         "MIR tasks",
+        "Creative practice involving MIR or generative technology",
+        "Evaluation, datasets, and reproducibility",
+        "Creativity",
+        "Music generation",
+        "Generative Tasks",
         "Music and audio synthesis",
-        "Alignment, synchronization, and score following",
+        "Multimodality",
         "Novel datasets and use cases",
-        "MIR fundamentals and methodology"
+        "MIR fundamentals and methodology",
+        "Alignment, synchronization, and score following"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -4494,18 +4494,18 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
-        "Musical style and genre",
-        "Human-centered MIR",
-        "Evaluation, datasets, and reproducibility",
-        "Applications",
-        "Music generation",
         "MIR tasks",
-        "Digital libraries and archives",
-        "Novel datasets and use cases",
-        "Symbolic music processing",
         "Musical features and properties",
-        "Personalization",
-        "MIR fundamentals and methodology"
+        "Applications",
+        "Digital libraries and archives",
+        "Evaluation, datasets, and reproducibility",
+        "Music generation",
+        "Symbolic music processing",
+        "Novel datasets and use cases",
+        "MIR fundamentals and methodology",
+        "Human-centered MIR",
+        "Musical style and genre",
+        "Personalization"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -4550,12 +4550,12 @@
       "day": "3",
       "keywords": [
         "Representations of music",
-        "Evaluation methodology",
-        "Similarity metrics",
-        "Timbre, instrumentation, and singing voice",
-        "Evaluation, datasets, and reproducibility",
         "MIR tasks",
-        "Musical features and properties"
+        "Musical features and properties",
+        "Timbre, instrumentation, and singing voice",
+        "Evaluation methodology",
+        "Evaluation, datasets, and reproducibility",
+        "Similarity metrics"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -4598,14 +4598,14 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        "Melody and motives",
-        "Computational musicology",
-        "Structure, segmentation, and form",
-        "Machine learning/artificial intelligence for music",
-        "Knowledge-driven approaches to MIR",
-        "Computational music theory and musicology",
         "Musical features and properties",
-        "Digital musicology"
+        "Melody and motives",
+        "Knowledge-driven approaches to MIR",
+        "Machine learning/artificial intelligence for music",
+        "Structure, segmentation, and form",
+        "Computational musicology",
+        "Digital musicology",
+        "Computational music theory and musicology"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -4659,15 +4659,15 @@
       "channel_url": "",
       "day": "1",
       "keywords": [
-        "Music transcription and annotation",
-        "Musical affect, emotion and mood",
-        "Evaluation, datasets, and reproducibility",
-        "Metadata, tags, linked data, and semantic web",
-        "MIR tasks",
-        "Novel datasets and use cases",
         "Musical features and properties",
+        "MIR tasks",
+        "Evaluation, datasets, and reproducibility",
         "Annotation protocols",
-        "MIR fundamentals and methodology"
+        "Novel datasets and use cases",
+        "MIR fundamentals and methodology",
+        "Musical affect, emotion and mood",
+        "Music transcription and annotation",
+        "Metadata, tags, linked data, and semantic web"
       ],
       "long_presentation": "TRUE",
       "paper_presentation": "In-person, in Daejeon",
@@ -4710,15 +4710,15 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
-        "Creativity and learning",
-        "Creativity",
-        "Tools for artists",
-        "Music training and education",
-        "Evaluation, datasets, and reproducibility",
         "Applications",
-        "Machine learning/artificial intelligence for music",
+        "Creativity and learning",
+        "Evaluation, datasets, and reproducibility",
+        "Music training and education",
+        "Creativity",
         "Knowledge-driven approaches to MIR",
-        "Novel datasets and use cases"
+        "Machine learning/artificial intelligence for music",
+        "Novel datasets and use cases",
+        "Tools for artists"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -4760,12 +4760,12 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        "Music transcription and annotation",
-        "Machine learning/artificial intelligence for music",
-        "Knowledge-driven approaches to MIR",
         "MIR tasks",
         "Music signal processing",
-        "MIR fundamentals and methodology"
+        "Knowledge-driven approaches to MIR",
+        "Machine learning/artificial intelligence for music",
+        "MIR fundamentals and methodology",
+        "Music transcription and annotation"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "Virtually",
@@ -4809,15 +4809,15 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        "Evaluation methodology",
-        "Human-centered MIR",
-        "Evaluation, datasets, and reproducibility",
+        "Gaming, augmented/virtual reality",
         "Applications",
-        "Machine learning/artificial intelligence for music",
+        "Evaluation methodology",
+        "Evaluation, datasets, and reproducibility",
         "Knowledge-driven approaches to MIR",
+        "Machine learning/artificial intelligence for music",
         "User-centered evaluation",
         "Novel datasets and use cases",
-        "Gaming, augmented/virtual reality"
+        "Human-centered MIR"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -4865,10 +4865,10 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
+        "Evaluation methodology",
         "Evaluation metrics",
-        "Evaluation, datasets, and reproducibility",
         "Novel datasets and use cases",
-        "Evaluation methodology"
+        "Evaluation, datasets, and reproducibility"
       ],
       "long_presentation": "TRUE",
       "paper_presentation": "In-person, in Daejeon",
@@ -4914,15 +4914,15 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        "Machine learning/artificial intelligence for music",
-        "Applications",
-        "Knowledge-driven approaches to MIR",
-        "MIR tasks",
-        "Fingerprinting",
-        "Pattern matching and detection",
-        "Indexing and querying",
-        "Music retrieval systems",
         "Music signal processing",
+        "MIR tasks",
+        "Applications",
+        "Fingerprinting",
+        "Music retrieval systems",
+        "Indexing and querying",
+        "Knowledge-driven approaches to MIR",
+        "Machine learning/artificial intelligence for music",
+        "Pattern matching and detection",
         "MIR fundamentals and methodology"
       ],
       "long_presentation": "FALSE",
@@ -4977,12 +4977,12 @@
       "channel_url": "",
       "day": "1",
       "keywords": [
-        "Generative Tasks",
+        "Evaluation metrics",
         "Qualitative evaluations",
         "Evaluation, datasets, and reproducibility",
         "Music and audio synthesis",
-        "Novel datasets and use cases",
-        "Evaluation metrics"
+        "Generative Tasks",
+        "Novel datasets and use cases"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -5035,15 +5035,15 @@
       "day": "2",
       "keywords": [
         "Representations of music",
-        "Generative Tasks",
-        "Music composition, performance, and production",
-        "Machine learning/artificial intelligence for music",
+        "MIR tasks",
+        "Musical features and properties",
         "Applications",
+        "Music composition, performance, and production",
         "Knowledge-driven approaches to MIR",
         "Music generation",
-        "MIR tasks",
+        "Generative Tasks",
         "Music and audio synthesis",
-        "Musical features and properties",
+        "Machine learning/artificial intelligence for music",
         "Rhythm, beat, tempo"
       ],
       "long_presentation": "FALSE",
@@ -5096,17 +5096,17 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
+        "Music interfaces and services",
+        "Applications",
         "Human-ai co-creativity",
         "Creativity",
-        "Generative Tasks",
-        "Human-centered MIR",
-        "Tools for artists",
         "Music composition, performance, and production",
-        "Machine learning/artificial intelligence for music",
-        "Applications",
         "Knowledge-driven approaches to MIR",
+        "Generative Tasks",
+        "Machine learning/artificial intelligence for music",
         "Real-time considerations",
-        "Music interfaces and services"
+        "Human-centered MIR",
+        "Tools for artists"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -5152,8 +5152,8 @@
       "channel_url": "",
       "day": "1",
       "keywords": [
-        "MIR tasks",
-        "Music transcription and annotation"
+        "Music transcription and annotation",
+        "MIR tasks"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -5201,10 +5201,10 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
-        "Ethical issues related to designing and implementing MIR tools and technologies",
         "Philosophical and ethical discussions",
         "Music signal processing",
-        "MIR fundamentals and methodology"
+        "MIR fundamentals and methodology",
+        "Ethical issues related to designing and implementing MIR tools and technologies"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -5250,15 +5250,15 @@
       "channel_url": "",
       "day": "1",
       "keywords": [
-        "Machine learning/artificial intelligence for music",
-        "Applications",
-        "Knowledge-driven approaches to MIR",
-        "Symbolic music processing",
         "Musical features and properties",
-        "Music retrieval systems",
-        "Rhythm, beat, tempo",
         "Music signal processing",
-        "MIR fundamentals and methodology"
+        "Applications",
+        "Music retrieval systems",
+        "Knowledge-driven approaches to MIR",
+        "Machine learning/artificial intelligence for music",
+        "Symbolic music processing",
+        "MIR fundamentals and methodology",
+        "Rhythm, beat, tempo"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -5302,10 +5302,10 @@
       "channel_url": "",
       "day": "1",
       "keywords": [
-        "Evaluation, datasets, and reproducibility",
-        "Novel datasets and use cases",
+        "MIR fundamentals and methodology",
         "Multimodality",
-        "MIR fundamentals and methodology"
+        "Novel datasets and use cases",
+        "Evaluation, datasets, and reproducibility"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -5349,15 +5349,15 @@
       "channel_url": "",
       "day": "1",
       "keywords": [
-        "Computational musicology",
-        "Rhythm, beat, tempo",
+        "Musical features and properties",
         "Timbre, instrumentation, and singing voice",
         "Evaluation, datasets, and reproducibility",
-        "Metadata, tags, linked data, and semantic web",
-        "Novel datasets and use cases",
-        "Musical features and properties",
         "Annotation protocols",
-        "MIR fundamentals and methodology"
+        "Computational musicology",
+        "MIR fundamentals and methodology",
+        "Novel datasets and use cases",
+        "Rhythm, beat, tempo",
+        "Metadata, tags, linked data, and semantic web"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -5401,11 +5401,11 @@
       "channel_url": "",
       "day": "1",
       "keywords": [
-        "Computational musicology",
-        "Machine learning/artificial intelligence for music",
-        "Knowledge-driven approaches to MIR",
         "Systematic musicology",
         "Music signal processing",
+        "Knowledge-driven approaches to MIR",
+        "Machine learning/artificial intelligence for music",
+        "Computational musicology",
         "MIR fundamentals and methodology"
       ],
       "long_presentation": "FALSE",
@@ -5452,10 +5452,10 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        "Evaluation, datasets, and reproducibility",
-        "Novel datasets and use cases",
+        "MIR fundamentals and methodology",
         "Multimodality",
-        "MIR fundamentals and methodology"
+        "Novel datasets and use cases",
+        "Evaluation, datasets, and reproducibility"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -5543,16 +5543,16 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        "Computational musicology",
-        "Human-centered MIR",
-        "Evaluation, datasets, and reproducibility",
-        "Applications",
-        "Multimodality",
-        "Digital libraries and archives",
-        "Human-computer interaction",
-        "Reproducibility",
         "Music videos, multimodal music systems",
-        "MIR fundamentals and methodology"
+        "Human-centered MIR",
+        "Applications",
+        "Digital libraries and archives",
+        "Evaluation, datasets, and reproducibility",
+        "Multimodality",
+        "Computational musicology",
+        "MIR fundamentals and methodology",
+        "Reproducibility",
+        "Human-computer interaction"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -5594,13 +5594,13 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        "Metadata, tags, linked data, and semantic web",
-        "Web mining, and natural language processing",
         "Musical features and properties",
-        "Rhythm, beat, tempo",
-        "Lyrics and other textual data",
         "Music signal processing",
-        "MIR fundamentals and methodology"
+        "Web mining, and natural language processing",
+        "Lyrics and other textual data",
+        "MIR fundamentals and methodology",
+        "Rhythm, beat, tempo",
+        "Metadata, tags, linked data, and semantic web"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -5650,10 +5650,10 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
+        "Expression and performative aspects of music",
         "Musical features and properties",
-        "Evaluation, datasets, and reproducibility",
         "Novel datasets and use cases",
-        "Expression and performative aspects of music"
+        "Evaluation, datasets, and reproducibility"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "Virtually",
@@ -5699,15 +5699,15 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        "Evaluation, datasets, and reproducibility",
+        "Music videos, multimodal music systems",
         "Applications",
-        "Multimodality",
+        "Digital libraries and archives",
+        "Evaluation, datasets, and reproducibility",
         "Knowledge-driven approaches to MIR",
         "Machine learning/artificial intelligence for music",
-        "Digital libraries and archives",
-        "Novel datasets and use cases",
-        "Music videos, multimodal music systems",
-        "MIR fundamentals and methodology"
+        "Multimodality",
+        "MIR fundamentals and methodology",
+        "Novel datasets and use cases"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -5756,8 +5756,8 @@
       "day": "4",
       "keywords": [
         "Human-centered MIR",
-        "Human-computer interaction",
-        "User behavior analysis and mining, user modeling"
+        "User behavior analysis and mining, user modeling",
+        "Human-computer interaction"
       ],
       "long_presentation": "FALSE",
       "paper_presentation": "In-person, in Daejeon",
@@ -5804,8 +5804,8 @@
       "day": "4",
       "keywords": [
         "Musical features and properties",
-        "Philosophical and ethical discussions",
         "Computational musicology",
+        "Philosophical and ethical discussions",
         "Evaluation, datasets, and reproducibility"
       ],
       "long_presentation": "FALSE",
